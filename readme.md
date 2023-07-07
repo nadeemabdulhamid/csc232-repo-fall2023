@@ -1,14 +1,23 @@
 # CSC 232 - Competitive Programming - Fall 2023
 
-
 ## Reading/Lectures
 
-- [Input Patterns](input-patterns/input-patterns.md)
+- **Introduction to Python** - As you watch these, follow along in VS Code yourself, typing up the examples and running them.
+    - [HtDP to Python - Part 1](https://mediaspace.berry.edu/media/HtDP+to+Python+-+part+1/1_unu59x0k) (~25 minutes)
+    - [HtDP to Python - Part 2](https://mediaspace.berry.edu/media/HtDP+to+Python+-+part+2+-+lists+dictionaries/1_pkovgis0) (~20 minutes)
 
 
-## Solve Problems
+- **Input Patterns**
+    - [Python](input-patterns/input-patterns.md) 
 
-- [SP 0](solve-problems/sp0.md)
+<hr>
+
+## Links/Resources
+
+- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - "... a fast-paced introduction to essential features of the Python language, aimed at researchers and developers who are already familiar with programming in another language."
+<br>
+**Up to Chapter 11** would be releveant for this course.
 
 
-## Find the Bug
+
+

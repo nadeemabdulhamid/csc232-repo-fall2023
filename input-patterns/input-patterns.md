@@ -16,7 +16,7 @@ The classic first program. It doesn't get easier than this, and yet over
 A sobering reminder than even the most trivial problem demands
 attention to details and checking before submitting.
 
-    [Code video]()
+    [Code video](https://youtu.be/2Q-wW0Eb4ds)
 
 
 
@@ -36,11 +36,11 @@ print(min(float(input()), float(input()), float(input())))
 - [Simple Addition](https://open.kattis.com/problems/simpleaddition):
 Add two large integers. Trivial in Python.
     
-    [Code video]()
+    [Code video](https://youtu.be/r2ZqgI4ReLk)
 
 - [Time Loop](https://open.kattis.com/problems/timeloop): An example where the input is always one line with one number, but the output is multiple lines.
 
-    [Code video]()
+    [Code video](https://youtu.be/mI5xpG3posw)
 
 
 
@@ -85,7 +85,7 @@ If the number of items per line is fixed, you can use Python's *tuple assignment
 
 - [Moscow Dream](https://open.kattis.com/problems/moscowdream): Always a single line of input with 4 numbers on it.
 
-    [Code video]()
+    [Code video](https://youtu.be/Ii1PizqrEwA)
 
 - [Solving for Carrots](https://open.kattis.com/problems/carrots):
 A silly description of a trivial problem that makes
