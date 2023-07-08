@@ -6,6 +6,10 @@
     - [HtDP to Python - Part 1](https://mediaspace.berry.edu/media/HtDP+to+Python+-+part+1/1_unu59x0k) (~25 minutes)
     - [HtDP to Python - Part 2](https://mediaspace.berry.edu/media/HtDP+to+Python+-+part+2+-+lists+dictionaries/1_pkovgis0) (~20 minutes)
 
+- [**A Whirlwind Tour of Python**](https://jakevdp.github.io/WhirlwindTourOfPython/) - "... a fast-paced introduction to essential features of the Python language, aimed at researchers and developers who are already familiar with programming in another language."
+<br>
+**Up to Chapter 12** would be releveant for this course.
+
 
 - **Input Patterns**
     - [Python](input-patterns/input-patterns.md) 
@@ -13,11 +17,5 @@
 <hr>
 
 ## Links/Resources
-
-- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - "... a fast-paced introduction to essential features of the Python language, aimed at researchers and developers who are already familiar with programming in another language."
-<br>
-**Up to Chapter 11** would be releveant for this course.
-
-
 
 

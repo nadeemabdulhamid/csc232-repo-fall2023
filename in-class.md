@@ -16,7 +16,7 @@
 - [Jumping Mario](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2864)
 
 
-## Week 3 [Simulation]
+## Week 3-4 [Simulation]
 
 Where the solution involves developing code to simulate whatever situation is described in  the text of the problem.
 
@@ -24,7 +24,12 @@ Where the solution involves developing code to simulate whatever situation is de
 - [UVa - 119 - Greedy Gift Givers](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=55)
 
 
-## Week 4 [2D Grids]
+## Week 4 [1D Arrays]
+
+- [Uva - 10050 Hartals](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=991)
+
+
+## Week 5 [2D Grids]
 
 - https://open.kattis.com/problems/apples
 - https://open.kattis.com/problems/mirror
