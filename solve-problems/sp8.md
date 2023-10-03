@@ -7,7 +7,18 @@ If you start on one of these and get stuck, you can ask me for help on Discord o
 <hr>
 
 
-## Greedy Algorithms
+## Dictionaries/Hash Tables/Sets
 
-- https://open.kattis.com/problems/virus
+- https://open.kattis.com/problems/chopin
+- https://open.kattis.com/problems/everywhere
+- https://open.kattis.com/problems/haypoints
+- https://open.kattis.com/problems/costumecontest
+
+
+## [Round 2]
+
+- https://open.kattis.com/problems/deduplicatingfiles (use the `ord` function and the Python `^` XOR operator)
+- https://open.kattis.com/problems/whatdoesthefoxsay
+- [UVa - 10374 Election](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1315)
+- [UVa - 11629 - Ballot evaluation](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2676)
 

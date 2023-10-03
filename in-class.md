@@ -38,13 +38,20 @@ Where the solution involves developing code to simulate whatever situation is de
 - [UVa - 11040 - Add bricks in the wall](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1981)  <!-- (255 - (54+67))/2 goes between 54 and 67 -->
 
 
-## Week 7 [Dictionaries/Hash Tables]
+## Week 7-8 [Priority Queues]
+
+- https://open.kattis.com/problems/jugglingpatterns
+- https://open.kattis.com/problems/continuousmedian
+- https://open.kattis.com/problems/janeeyre
+
+
+## Week 8-9 [Dictionaries/Hash Tables]
 
 - https://open.kattis.com/problems/relocation (DAT)
 - https://open.kattis.com/problems/babelfish (map)
 - https://open.kattis.com/problems/bard (set + map)
 
 
-## Week 8 [Greedy Algorithms]
+## Week 10 [Greedy Algorithms]
 
 - https://www.spoj.com/problems/BLOPER/
