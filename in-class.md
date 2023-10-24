@@ -47,7 +47,6 @@ Where the solution involves developing code to simulate whatever situation is de
 
 ## Week 8-9 [Dictionaries/Hash Tables]
 
-- [12650 - Dangerous Dive](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4379)
 - https://open.kattis.com/problems/relocation (DAT)
 - https://open.kattis.com/problems/babelfish (map)
 - https://open.kattis.com/problems/bard (set + map)
