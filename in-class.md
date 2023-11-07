@@ -56,6 +56,7 @@ Where the solution involves developing code to simulate whatever situation is de
 
 - https://open.kattis.com/problems/inflation
 - https://open.kattis.com/problems/grass
+- https://open.kattis.com/problems/ants
 - https://open.kattis.com/problems/squarepegs
 
 
