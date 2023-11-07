@@ -54,4 +54,8 @@ Where the solution involves developing code to simulate whatever situation is de
 
 ## Week 10 [Greedy Algorithms]
 
-- https://www.spoj.com/problems/BLOPER/
+- https://open.kattis.com/problems/inflation
+- https://open.kattis.com/problems/grass
+- https://open.kattis.com/problems/squarepegs
+
+
